@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <g id="グループ_12" data-name="グループ 12" transform="translate(-140 -1480)">
+    <circle id="楕円形_1" data-name="楕円形 1" cx="75" cy="75" r="75" transform="translate(140 1480)" fill="#fff"/>
+    <g id="WEBページのアイコン" transform="translate(174.965 1515)">
+      <path id="パス_4" data-name="パス 4" d="M72.5,0H7.5A7.5,7.5,0,0,0,0,7.5v65A7.5,7.5,0,0,0,7.5,80h65A7.5,7.5,0,0,0,80,72.5V7.5A7.5,7.5,0,0,0,72.5,0ZM69.479,5.469A2.969,2.969,0,1,1,66.51,8.437,2.969,2.969,0,0,1,69.479,5.469Zm-11.016,0a2.969,2.969,0,1,1-2.969,2.969A2.969,2.969,0,0,1,58.463,5.469Zm-11.016,0a2.969,2.969,0,1,1-2.969,2.969A2.969,2.969,0,0,1,47.447,5.469ZM73.75,72.5a1.252,1.252,0,0,1-1.25,1.25H7.5A1.252,1.252,0,0,1,6.25,72.5V16.25h67.5Z" transform="translate(0)" fill="#3c6bb9"/>
+      <rect id="長方形_5" data-name="長方形 5" width="22" height="4" transform="translate(15.446 30.099)" fill="#3c6bb9"/>
+      <rect id="長方形_6" data-name="長方形 6" width="48" height="4" transform="translate(16.82 55.897)" fill="#3c6bb9"/>
+      <rect id="長方形_7" data-name="長方形 7" width="18" height="17" transform="translate(48.15 30.571)" fill="#3c6bb9"/>
+      <path id="パス_5" data-name="パス 5" d="M115.411,276.669h2.766V272H96v4.669h19.411Z" transform="translate(-80.58 -229.312)" fill="#3c6bb9"/>
+    </g>
+  </g>
+</svg>
